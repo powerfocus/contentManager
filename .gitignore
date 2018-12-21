@@ -28,3 +28,6 @@ contentManage.iml
 .idea
 .idea/workspace.xml
 target/
+/target/
+/contentManage.iml
+/.idea/
